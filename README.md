@@ -1,14 +1,10 @@
 # EditPix - Vuejs-demo
 
-This is a small demo for using the EditPix library with Vuejs 3 and Composition API.
+This is a small demo for using the EditPix library with Vuejs 3, Vuetify and Composition API.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Contributing
+This project is for demonstration purposes only, so very few library features have been implemented.
+If you want to contribute to increasing the functionality it will be welcomed.
 
 ## Project Setup
 
